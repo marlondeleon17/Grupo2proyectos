@@ -1,3 +1,4 @@
+//parte de Carlos David Rojas Coronado librerias y cargar procesos
 using System;
 using System.Diagnostics;
 using System.Windows.Forms;
@@ -55,6 +56,11 @@ namespace AdministradorProcesos
                     // consultar toda su información.
                 }
             }
+
+
+
+
+            // parte de Jennifer Alba Dayami Barrios Flores de estadisticas y boton busqueda
 
             // Cantidad de procesos
             lblCantidad.Text =
@@ -129,6 +135,8 @@ namespace AdministradorProcesos
 
 
 
+
+        // parte de Maria Celeste Mayen Ibarra boton detalles
         private void btnDetalles_Click(object sender, EventArgs e)
         {
             if (dgvProcesos.SelectedRows.Count == 0)
@@ -174,6 +182,8 @@ namespace AdministradorProcesos
             }
         }
 
+
+        //Marlon Rubén De León González de boton finalizar todo y mostrar todo
         private void btnFinalizar_Click(object sender, EventArgs e)
         {
             if (dgvProcesos.SelectedRows.Count == 0)

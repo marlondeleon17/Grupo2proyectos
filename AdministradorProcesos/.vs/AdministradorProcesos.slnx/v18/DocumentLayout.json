@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\",
+  "WorkspaceRootPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|c:\\users\\marlo\\source\\repos\\administradorprocesos\\administradorprocesos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|c:\\users\\marlo\\onedrive\\documentos\\2026\\semestre 2\\repos\\actual\\grupo2proyectos\\administradorprocesos\\administradorprocesos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|solutionrelative:administradorprocesos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\administradorprocesos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\administradorprocesos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|solutionrelative:administradorprocesos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|c:\\users\\marlo\\source\\repos\\administradorprocesos\\administradorprocesos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|c:\\users\\marlo\\onedrive\\documentos\\2026\\semestre 2\\repos\\actual\\grupo2proyectos\\administradorprocesos\\administradorprocesos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ED296ED-FC1C-814E-6ED3-8816B248C100}|AdministradorProcesos\\AdministradorProcesos.csproj|solutionrelative:administradorprocesos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,30 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "AdministradorProcesos\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\Form1.Designer.cs",
               "RelativeToolTip": "AdministradorProcesos\\Form1.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T21:28:03.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T21:28:03.478Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs",
               "RelativeDocumentMoniker": "AdministradorProcesos\\Form1.cs",
-              "ToolTip": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs",
+              "ToolTip": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs",
               "RelativeToolTip": "AdministradorProcesos\\Form1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwFUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAmwK8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T20:25:16.927Z",
               "EditorCaption": ""
@@ -54,13 +57,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs",
               "RelativeDocumentMoniker": "AdministradorProcesos\\Form1.cs",
               "ToolTip": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AdministradorProcesos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T20:17:42.57Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-09-15T20:17:42.57Z"
             }
           ]
         }

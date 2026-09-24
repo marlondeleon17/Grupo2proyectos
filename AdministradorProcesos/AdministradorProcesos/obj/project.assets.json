@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\AdministradorProcesos.csproj",
+      "projectUniqueName": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\AdministradorProcesos.csproj",
       "projectName": "AdministradorProcesos",
-      "projectPath": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\AdministradorProcesos.csproj",
+      "projectPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\AdministradorProcesos.csproj",
       "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marlo\\source\\repos\\AdministradorProcesos\\AdministradorProcesos\\obj\\",
+      "outputPath": "C:\\Users\\marlo\\OneDrive\\Documentos\\2026\\semestre 2\\repos\\actual\\Grupo2proyectos\\AdministradorProcesos\\AdministradorProcesos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

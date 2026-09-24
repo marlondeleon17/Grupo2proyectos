@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdministradorProcesos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+347a7cfa8156a40171e15d5e75893c3beaaf745c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8550ddd3cd1eff1b7ca2f2bc8a9784f7ea5fa5bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdministradorProcesos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdministradorProcesos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
